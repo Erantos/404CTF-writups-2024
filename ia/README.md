@@ -2,6 +2,8 @@
 
 Cette catégorie propose différents challenges autour de l'intelligence artificielle.
 
+Tous les challenges se trouvent dans l'archive `404CTF-2024-Intelligence-artificielle-main.zip`
+
 ### Challenges résolus ( 4 / 4 )
 
 | Nom | Catégorie | Nombre de points | Nombre de validations | Résolu |
